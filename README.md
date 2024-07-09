@@ -25,3 +25,22 @@ The dataset used in this project is titled "Persons arrested and their disposal 
 - **Persons in whose cases trials were completed during the year**
 - **Persons convicted**
 - **Persons acquitted**
+
+## Installation
+
+To run this project, you need to have Python and the following libraries installed:
+
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- joypy
+- statsmodels
+- scipy
+- sklearn
+
+You can install the required libraries using the following command:
+
+```bash
+pip install pandas numpy seaborn matplotlib joypy statsmodels scipy sklearn
+
