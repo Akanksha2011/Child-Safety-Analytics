@@ -88,6 +88,14 @@ The project is organized as follows:
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/4592567f-f63b-4ca7-b006-a54c365c7bfc)
 
 
+## Conclusion
+
+This project provides an in-depth analysis of crimes against children in India for the year 2013. By leveraging data analytics and visualization techniques, it aims to extract meaningful insights and present them in an understandable manner.
+
+## License
+
+This project is licensed under the MIT License.
+
 
 
 
