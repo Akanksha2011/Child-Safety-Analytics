@@ -69,7 +69,20 @@ The project is organized as follows:
 
 ## Screenshots
 
+-Bar plot showing the distribution of different crime heads across states.
+
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/f03e39cc-d238-4928-abb3-6e4145f75428)
+
+-Box plot of total number of persons under train during that year.
+
+![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/5bffe690-aa11-44bd-bbd0-2f3a8e0c42dd)
+
+![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/d301cb82-cbf9-4f60-89ce-742a620dec01)
+
+![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/4592567f-f63b-4ca7-b006-a54c365c7bfc)
+
+
+
 
 
 
