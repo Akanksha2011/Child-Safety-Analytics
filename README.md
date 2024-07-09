@@ -44,3 +44,36 @@ You can install the required libraries using the following command:
 ```bash
 pip install pandas numpy seaborn matplotlib joypy statsmodels scipy sklearn
 
+## Usage
+
+To use this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Open the `DAV_project.ipynb` file in Jupyter Notebook or JupyterLab.
+3. Run the cells in the notebook to see the data analysis and visualizations.
+
+## Project Structure
+
+The project is organized as follows:
+
+### Data Loading and Preprocessing
+
+- Load the dataset and perform necessary preprocessing steps.
+
+### Exploratory Data Analysis (EDA)
+
+- Analyze the dataset to understand the distribution and frequency of crimes.
+
+### Data Visualization
+
+- Create various plots and charts to visualize the data.
+
+### Statistical Analysis
+
+- Perform statistical tests to derive insights from the data.
+
+## Screenshots
+
+
+
+
