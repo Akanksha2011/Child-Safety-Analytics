@@ -69,6 +69,7 @@ The project is organized as follows:
 
 ## Screenshots
 
+![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/f03e39cc-d238-4928-abb3-6e4145f75428)
 
 
 
