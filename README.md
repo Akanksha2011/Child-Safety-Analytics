@@ -26,7 +26,7 @@ The dataset used in this project is titled "Persons arrested and their disposal 
 - **Persons convicted**
 - **Persons acquitted**
 
-## Installation
+## Installation ⭐
 
 To run this project, you need to have Python and the following libraries installed:
 
@@ -39,7 +39,7 @@ To run this project, you need to have Python and the following libraries install
 - scipy
 - sklearn
 
-## Usage
+## Usage ⭐
 
 To use this project, follow these steps:
 
@@ -47,7 +47,7 @@ To use this project, follow these steps:
 2. Open the `DAV_project.ipynb` file in Jupyter Notebook or JupyterLab.
 3. Run the cells in the notebook to see the data analysis and visualizations.
 
-## Project Structure
+## Project Structure ⭐
 
 The project is organized as follows:
 
@@ -67,21 +67,21 @@ The project is organized as follows:
 
 - Perform statistical tests to derive insights from the data.
 
-## Screenshots
+## Screenshots ⭐
 
 -Bar plot showing the distribution of different crime heads across states:
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/f03e39cc-d238-4928-abb3-6e4145f75428)
 
--Box plot of total number of persons under train during that year:
+-Boxplot illustrates the distribution of persons under trial across various states and union territories throughout the year. Each box represents the interquartile range, while the whiskers indicate the range of the data. Outliers are displayed as individual points, highlighting variations and anomalies among different regions.:
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/5bffe690-aa11-44bd-bbd0-2f3a8e0c42dd)
 
--A pie chart shows the distribution of persons under trial by crime type:
+-A pie chart provides a visual representation of the distribution of persons under trial for various crimes against children. It breaks down the different categories of crimes and shows the proportion of each type, offering insights into the most common offenses and the relative frequency of each crime.
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/66689bc7-4687-4fc1-87e6-c43033531e2e)
 
--Total number of persons under trial is visualized using a KDE plot:
+-This Kernel Density Estimate (KDE) plot visualizes the distribution of the total number of persons under trial over the course of a year. The plot highlights the density and spread, indicating the frequency and variation of trials, with a peak around the central value.
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/371bfa37-4c33-4de9-a6a3-afa9bf63d2c7)
 
@@ -94,11 +94,11 @@ The project is organized as follows:
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/4592567f-f63b-4ca7-b006-a54c365c7bfc)
 
 
-## Conclusion
+## Conclusion ⭐
 
 This project provides an in-depth analysis of crimes against children in India for the year 2013. By leveraging data analytics and visualization techniques, it aims to extract meaningful insights and present them in an understandable manner.
 
-## License
+## License ⭐
 
 This project is licensed under the MIT License.
 
