@@ -1,13 +1,13 @@
 # Child-Safety-Analytics
 The Project involves Preprocessing, Analyzing, and Visualizing the data using various plots and charts to get meaningful insights. 
 
-## Objective
+## Objective ⭐
 This project focuses on data analytics and visualization of crimes against children in India for the year 2013. It involves preprocessing, analyzing, and visualizing the dataset to extract meaningful insights. The main objectives of this project are:
 - **Understand the distribution and frequency of various crime heads across different states/UTs.**
 - **Analyze the outcomes of arrests and trials.**
 - **Visualize the data using various plots and charts.**
 
-## Dataset Information
+## Dataset Information ⭐
 
 The dataset used in this project is titled "Persons arrested and their disposal by police and court under crime against children 2013". It includes the following columns:
 
@@ -69,21 +69,27 @@ The project is organized as follows:
 
 ## Screenshots
 
--Bar plot showing the distribution of different crime heads across states.
+-Bar plot showing the distribution of different crime heads across states:
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/f03e39cc-d238-4928-abb3-6e4145f75428)
 
--Box plot of total number of persons under train during that year.
+-Box plot of total number of persons under train during that year:
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/5bffe690-aa11-44bd-bbd0-2f3a8e0c42dd)
 
+-A pie chart shows the distribution of persons under trial by crime type:
+
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/66689bc7-4687-4fc1-87e6-c43033531e2e)
+
+-Total number of persons under trial is visualized using a KDE plot:
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/371bfa37-4c33-4de9-a6a3-afa9bf63d2c7)
 
-
+-Heatmap illustrates the correlation between different factors related to crimes against children in India for the year 2013. It helps to understand the relationships between various crime statistics.
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/d301cb82-cbf9-4f60-89ce-742a620dec01)
+
+-Confidence interval for a given dataset highlights the range within which the true population parameter is expected to fall, with the lower and upper bounds marked by red dashed lines.
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/4592567f-f63b-4ca7-b006-a54c365c7bfc)
 
