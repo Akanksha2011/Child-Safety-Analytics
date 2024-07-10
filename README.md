@@ -69,29 +69,38 @@ The project is organized as follows:
 
 ## Screenshots ⭐
 
--Bar plot showing the distribution of different crime heads across states:
-
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/f03e39cc-d238-4928-abb3-6e4145f75428)
 
--Boxplot illustrates the distribution of persons under trial across various states and union territories throughout the year. Each box represents the interquartile range, while the whiskers indicate the range of the data. Outliers are displayed as individual points, highlighting variations and anomalies among different regions.:
+-Bar plot showing the distribution of different crime heads across states:
+
+
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/5bffe690-aa11-44bd-bbd0-2f3a8e0c42dd)
 
--A pie chart provides a visual representation of the distribution of persons under trial for various crimes against children. It breaks down the different categories of crimes and shows the proportion of each type, offering insights into the most common offenses and the relative frequency of each crime.
+-Boxplot illustrates the distribution of persons under trial across various states and union territories throughout the year. Each box represents the interquartile range, while the whiskers indicate the range of the data. Outliers are displayed as individual points, highlighting variations and anomalies among different regions.
+
+
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/66689bc7-4687-4fc1-87e6-c43033531e2e)
 
--This Kernel Density Estimate (KDE) plot visualizes the distribution of the total number of persons under trial over the course of a year. The plot highlights the density and spread, indicating the frequency and variation of trials, with a peak around the central value.
+-A pie chart provides a visual representation of the distribution of persons under trial for various crimes against children. It breaks down the different categories of crimes and shows the proportion of each type, offering insights into the most common offenses and the relative frequency of each crime.
+
+
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/371bfa37-4c33-4de9-a6a3-afa9bf63d2c7)
 
--Heatmap illustrates the correlation between different factors related to crimes against children in India for the year 2013. It helps to understand the relationships between various crime statistics.
+-This Kernel Density Estimate (KDE) plot visualizes the distribution of the total number of persons under trial over the course of a year. The plot highlights the density and spread, indicating the frequency and variation of trials, with a peak around the central value.
+
+
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/d301cb82-cbf9-4f60-89ce-742a620dec01)
 
--Confidence interval for a given dataset highlights the range within which the true population parameter is expected to fall, with the lower and upper bounds marked by red dashed lines.
+-Heatmap illustrates the correlation between different factors related to crimes against children in India for the year 2013. It helps to understand the relationships between various crime statistics.
+
 
 ![image](https://github.com/Akanksha2011/Child-Safety-Analytics/assets/96917420/4592567f-f63b-4ca7-b006-a54c365c7bfc)
+
+-Confidence interval for a given dataset highlights the range within which the true population parameter is expected to fall, with the lower and upper bounds marked by red dashed lines.
 
 
 ## Conclusion ⭐
